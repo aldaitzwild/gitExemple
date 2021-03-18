@@ -1,4 +1,4 @@
 <?php
 
 echo "Bonjour Github !";
-echo "Je suis impatient d'etre pushé !!";
+echo "C'est bon j'y suis !";
